@@ -1,5 +1,5 @@
 # Search-in-Recyclerview in Android
-Search functionality with recyclerview in android. Here is simple demo to make your recyclerview searchable. By following this demo you can implement search functionality to your RecyclerView in android.
+Search functionality with recyclerview in android. Here is simple demo to make your recyclerview searchable. By following this demo you can implement search functionality to your RecyclerView in android. Here I got country list and display in Recyclerview.
 
 Follow these steps to implement search functionality with RecyclerView : 
 1. Create new project with Android studio.
