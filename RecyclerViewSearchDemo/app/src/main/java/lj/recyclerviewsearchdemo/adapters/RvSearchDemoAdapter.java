@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import java.util.ArrayList;
 
 import lj.recyclerviewsearchdemo.R;
-import lj.recyclerviewsearchdemo.RvSearchDemoHolder;
+import lj.recyclerviewsearchdemo.holders.RvSearchDemoHolder;
 
 /**
  * Created by lj on 3/28/2017.

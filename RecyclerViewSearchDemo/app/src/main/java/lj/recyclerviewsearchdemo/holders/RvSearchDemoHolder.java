@@ -1,8 +1,10 @@
-package lj.recyclerviewsearchdemo;
+package lj.recyclerviewsearchdemo.holders;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.TextView;
+
+import lj.recyclerviewsearchdemo.R;
 
 /**
  * Created by lj on 3/28/2017.
